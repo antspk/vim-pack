@@ -28,3 +28,7 @@
 [submodule "plugins/start/vim-nerdtree-tabs"]
 	path = plugins/start/vim-nerdtree-tabs
 	url = https://github.com/jistr/vim-nerdtree-tabs
+[submodule "languages/start/coc.nvim"]
+	path = languages/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim
+	branch = release
